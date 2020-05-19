@@ -126,10 +126,10 @@
     <value>Palatino Linotype, 20.25pt</value>
   </data>
   <data name="txt1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>154, 58</value>
+    <value>26, 53</value>
   </data>
   <data name="txt1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>146, 36</value>
+    <value>148, 38</value>
   </data>
   <data name="txt1.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -144,43 +144,49 @@
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;txt1.Parent" xml:space="preserve">
-    <value>$this</value>
+    <value>panel1</value>
   </data>
   <data name="&gt;&gt;txt1.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>0</value>
   </data>
-  <data name="user.Location" type="System.Drawing.Point, System.Drawing">
-    <value>73, 200</value>
+  <data name="txt_user.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Lucida Sans, 20.25pt</value>
   </data>
-  <data name="user.Size" type="System.Drawing.Size, System.Drawing">
-    <value>308, 20</value>
+  <data name="txt_user.Location" type="System.Drawing.Point, System.Drawing">
+    <value>319, 124</value>
   </data>
-  <data name="user.TabIndex" type="System.Int32, mscorlib">
+  <data name="txt_user.Size" type="System.Drawing.Size, System.Drawing">
+    <value>308, 39</value>
+  </data>
+  <data name="txt_user.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
-  <data name="&gt;&gt;user.Name" xml:space="preserve">
-    <value>user</value>
+  <data name="txt_user.Text" xml:space="preserve">
+    <value>Usuario</value>
   </data>
-  <data name="&gt;&gt;user.Type" xml:space="preserve">
+  <data name="&gt;&gt;txt_user.Name" xml:space="preserve">
+    <value>txt_user</value>
+  </data>
+  <data name="&gt;&gt;txt_user.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;user.Parent" xml:space="preserve">
+  <data name="&gt;&gt;txt_user.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;user.ZOrder" xml:space="preserve">
-    <value>4</value>
+  <data name="&gt;&gt;txt_user.ZOrder" xml:space="preserve">
+    <value>6</value>
   </data>
   <data name="txt2.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="txt2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt</value>
+    <value>Microsoft Sans Serif, 18pt</value>
   </data>
   <data name="txt2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>73, 181</value>
+    <value>319, 92</value>
   </data>
   <data name="txt2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>58, 16</value>
+    <value>102, 29</value>
   </data>
   <data name="txt2.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -198,44 +204,50 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txt2.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="txt_pass.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Lucida Sans, 20.25pt</value>
+  </data>
+  <data name="txt_pass.Location" type="System.Drawing.Point, System.Drawing">
+    <value>319, 224</value>
+  </data>
+  <data name="txt_pass.Size" type="System.Drawing.Size, System.Drawing">
+    <value>305, 39</value>
+  </data>
+  <data name="txt_pass.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
   </data>
-  <data name="password.Location" type="System.Drawing.Point, System.Drawing">
-    <value>76, 338</value>
+  <data name="txt_pass.Text" xml:space="preserve">
+    <value>Password</value>
   </data>
-  <data name="password.Size" type="System.Drawing.Size, System.Drawing">
-    <value>305, 20</value>
+  <data name="&gt;&gt;txt_pass.Name" xml:space="preserve">
+    <value>txt_pass</value>
   </data>
-  <data name="password.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;password.Name" xml:space="preserve">
-    <value>password</value>
-  </data>
-  <data name="&gt;&gt;password.Type" xml:space="preserve">
+  <data name="&gt;&gt;txt_pass.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;password.Parent" xml:space="preserve">
+  <data name="&gt;&gt;txt_pass.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;password.ZOrder" xml:space="preserve">
-    <value>2</value>
+  <data name="&gt;&gt;txt_pass.ZOrder" xml:space="preserve">
+    <value>4</value>
   </data>
   <data name="txt3.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="txt3.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt</value>
+    <value>Microsoft Sans Serif, 18pt</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="txt3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="txt3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>73, 319</value>
+    <value>319, 192</value>
   </data>
   <data name="txt3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>71, 16</value>
+    <value>126, 29</value>
   </data>
   <data name="txt3.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -253,33 +265,84 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txt3.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>3</value>
   </data>
-  <data name="log.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="btn_log.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15.75pt, style=Bold</value>
+  </data>
+  <data name="btn_log.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="log.Location" type="System.Drawing.Point, System.Drawing">
-    <value>160, 469</value>
+  <data name="btn_log.Location" type="System.Drawing.Point, System.Drawing">
+    <value>319, 335</value>
   </data>
-  <data name="log.Size" type="System.Drawing.Size, System.Drawing">
-    <value>140, 26</value>
+  <data name="btn_log.Size" type="System.Drawing.Size, System.Drawing">
+    <value>305, 44</value>
   </data>
-  <data name="log.TabIndex" type="System.Int32, mscorlib">
+  <data name="btn_log.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
   </data>
-  <data name="log.Text" xml:space="preserve">
+  <data name="btn_log.Text" xml:space="preserve">
     <value>Ingresar</value>
   </data>
-  <data name="&gt;&gt;log.Name" xml:space="preserve">
-    <value>log</value>
+  <data name="&gt;&gt;btn_log.Name" xml:space="preserve">
+    <value>btn_log</value>
   </data>
-  <data name="&gt;&gt;log.Type" xml:space="preserve">
+  <data name="&gt;&gt;btn_log.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;log.Parent" xml:space="preserve">
+  <data name="&gt;&gt;btn_log.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;log.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;btn_log.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="panel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 460</value>
+  </data>
+  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>802, 13</value>
+  </data>
+  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>20, 23</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="button1.Text" xml:space="preserve">
+    <value>X</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
@@ -289,7 +352,7 @@
     <value>6, 13</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>464, 616</value>
+    <value>834, 460</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -1691,6 +1754,9 @@
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
         AAA=
 </value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Ingresar</value>
