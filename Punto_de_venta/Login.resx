@@ -159,7 +159,7 @@
     <value>308, 39</value>
   </data>
   <data name="txt_user.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
+    <value>3</value>
   </data>
   <data name="txt_user.Text" xml:space="preserve">
     <value>Usuario</value>
@@ -216,7 +216,7 @@
     <value>305, 39</value>
   </data>
   <data name="txt_pass.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
+    <value>5</value>
   </data>
   <data name="txt_pass.Text" xml:space="preserve">
     <value>Password</value>
@@ -280,7 +280,7 @@
     <value>305, 44</value>
   </data>
   <data name="btn_log.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
+    <value>1</value>
   </data>
   <data name="btn_log.Text" xml:space="preserve">
     <value>Ingresar</value>
